@@ -1,0 +1,13 @@
+package bankmanagementsoftware;
+import java.util.Scanner;
+public class bank {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter your 'Name' and 'CustumerId' to access your Bank account:");
+		String name = sc.nextLine();
+		String costumerId = sc.nextLine();
+		
+	}
+
+}

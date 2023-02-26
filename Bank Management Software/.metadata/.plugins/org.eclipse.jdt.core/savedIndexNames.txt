@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\yvzyl\OneDrive\Masaüstü\JAVA\Projects\Bank Management Software\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+235668609.index
+402956992.index
