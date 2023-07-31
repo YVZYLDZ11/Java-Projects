@@ -21,7 +21,7 @@ EXAMPLE:
 
   > static void myMethod() {
 
-    > // code to be executed
+    // code to be executed
     
   > }
 
