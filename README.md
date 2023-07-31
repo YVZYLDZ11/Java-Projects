@@ -17,8 +17,8 @@ A method must be declared within a class. It is defined with the name of the met
 
 EXAMPLE:
 
-public class Main {
-  static void myMethod() {
-    // code to be executed
-  }
-}
+> public class Main {
+  > static void myMethod() {
+    > // code to be executed
+  > }
+> }
