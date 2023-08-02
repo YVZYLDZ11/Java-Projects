@@ -25,6 +25,62 @@ EXAMPLE:
     
   > }
 
+
+Call a Method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > }
 
 Example Explained
