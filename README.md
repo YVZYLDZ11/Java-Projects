@@ -25,63 +25,6 @@ EXAMPLE:
     
   > }
 
-
-
-Call a Method
-
-To call a method in Java, write the method's name followed by two parentheses () and a semicolon;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 > }
 
 Example Explained
