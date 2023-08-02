@@ -41,4 +41,4 @@ Call a Method
 
 To call a method in Java, write the method's name followed by two parentheses () and a semicolon;
 
-
+In the following example, myMethod() is used to print a text (the action), when it is called:
