@@ -59,6 +59,7 @@ public class Main {
 
 Java - What is OOP?
 
+OOP stands for Object-Oriented Programming.
 
 
 
