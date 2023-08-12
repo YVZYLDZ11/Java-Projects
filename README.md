@@ -68,6 +68,7 @@ Object-oriented programming has several advantages over procedural programming:
 
 > OOP is faster and easier to execute
 
+> OOP provides a clear structure for the programs
 
 
 
