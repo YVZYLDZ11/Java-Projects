@@ -66,7 +66,7 @@ objects that contain both data and methods.
 
 Object-oriented programming has several advantages over procedural programming:
 
-
+> OOP is faster and easier to execute
 
 
 
